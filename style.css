@@ -6,15 +6,15 @@
 }
 
 .container{
-    width: 100%%;
+    width: 100%;
     min-height: 100vh;
-    background: linear-gradient(120deg, #3498db, #8e44ad);
+    background: linear-gradient(120deg, #17089f, #9a12b5e8);
     padding: 10px;
     
 }
 
 .todo-app{
-    with: 100%;
+    width: 100%;
     max-width: 500px;
     margin: 100px auto 20px;
     background: #fff;
