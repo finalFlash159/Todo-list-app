@@ -71,11 +71,6 @@ ul li{
     user-select: none;
     cursor: pointer;
     position: relative;
-    {% comment %} border-radius: 30px;
-    margin-bottom: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between; {% endcomment %}
 }
 ul li::before{
     content: '';
